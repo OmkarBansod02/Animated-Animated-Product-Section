@@ -2,7 +2,9 @@
 
 This project demonstrates a Next.js-based product section featuring animated card flips on hover. It utilizes TypeScript for type safety and Tailwind CSS for rapid styling.
 
-## project preview
+## Project preview
+
+https://github.com/user-attachments/assets/5021acff-3491-4022-b5c8-0ecd283b09c0
 
 ## Features
 
