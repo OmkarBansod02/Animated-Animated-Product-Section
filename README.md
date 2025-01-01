@@ -1,6 +1,6 @@
 # Next.js Animated Product Section with Card Flip
 
-This project demonstrates a Next.js-based product section featuring animated card flips on hover. It utilizes TypeScript for type safety and Tailwind CSS for rapid styling.
+This project demonstrates a Next.js-based product section featuring animated card flips on Click. It utilizes TypeScript for type safety and Tailwind CSS for rapid styling.
 
 ## project preview
 
